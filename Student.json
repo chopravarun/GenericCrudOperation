@@ -1,0 +1,21 @@
+{
+	"tableName": "Student",
+	"className": "com.generic.fnd.entity.StudentEntity",
+	"properties": [{
+			"property": "FirstName",
+			"columnName": "first_name"
+		},
+		{
+			"property": "LastName",
+			"columnName": "last_name"
+		},
+		{
+			"property": "Age",
+			"columnName": "age"
+		},
+		{
+			"property": "RollNumber",
+			"columnName": "roll_number"
+		}
+	]
+}

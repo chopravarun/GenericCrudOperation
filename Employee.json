@@ -1,0 +1,13 @@
+{
+	"tableName": "Employee",
+	"className": "com.generic.fnd.entity.EmployeeEntity",
+	"properties": [{
+			"property": "FirstName",
+			"columnName": "first_name"
+		},
+		{
+			"property": "LastName",
+			"columnName": "last_name"
+		}
+	]
+}
